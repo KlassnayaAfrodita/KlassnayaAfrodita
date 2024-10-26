@@ -9,5 +9,5 @@ Here are some ideas to get you started:
  🌱 I’m currently learning MEPHI (Moscow)
 -->
 ### :fire: My Stats : 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlassnayaAfrodita&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KlassnayaAfroditae&theme=dark&background=000000)](https://git.io/streak-stats)
 
