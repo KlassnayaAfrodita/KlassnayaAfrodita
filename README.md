@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MEPHI (Moscow)
 -->
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?KlassnayaAfrodita&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?KlassnayaAfrodita&theme=dark&background=000000)](https://git.io/streak-stats)
