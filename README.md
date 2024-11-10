@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-🔭 I’m currently working on Goravel
+🔭 I’m currently working on Goravel\
 🌱 I’m currently learning MEPHI (Moscow)
 ### :fire: My Stats : 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlassnayaAfrodita&show_icons=true&theme=radical)
