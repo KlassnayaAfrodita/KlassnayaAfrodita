@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlassnayaAfrodita&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassnayaAfrodita&layout=compact&theme=radical)
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,python"/>
+  </a>
+</p>
