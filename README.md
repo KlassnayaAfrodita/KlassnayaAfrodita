@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,python,postgresql,redis,mongodb,github,git"/>
+    <img src="https://skillicons.dev/icons?i=go,docker,git,github,python,postgresql,redis,mongodb"/>
   </a>
 </p>
