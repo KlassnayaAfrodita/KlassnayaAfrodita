@@ -21,3 +21,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=go,python,java,docker,git,github,postgresql,redis,mongodb"/>
   </a>
 </p>
+
+### 📫 How to Reach Me:
+- Telegram: [KlassnayaAfrodita](https://t.me/MyNameIsEKJ)
+
+
