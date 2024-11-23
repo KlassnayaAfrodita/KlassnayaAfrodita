@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - [MessageBroker](https://github.com/KlassnayaAfrodita/AfroditaMQ) — A message broker in Go with priority and retry support.
 ### :fire: My Stats: 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KlassnayaAfrodita&show_icons=true&theme=buef)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassnayaAfrodita&layout=compact&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KlassnayaAfrodita&layout=compact&theme=buef)
 
 <p>
   <a href="https://skillicons.dev">
