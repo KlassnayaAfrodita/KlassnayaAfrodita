@@ -1,5 +1,5 @@
 ## Hi there, I'm Evgeny 👋
-## Student of applied mathematics and computer science. Junior developer
+## Student of applied mathematics and computer science. Golang developer
 
 <!--
 **KlassnayaAfrodita/KlassnayaAfrodita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
