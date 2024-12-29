@@ -21,8 +21,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=go,python,java,docker,git,github,postgresql,redis,mongodb"/>
   </a>
 </p>
-![Snake animation light](https://raw.githubusercontent.com/KlassnayaAfrodita/KlassnayaAfrodita/stats/github-contribution-grid-snake-light.svg#gh-light-mode-only)
-![Snake animation dark](https://raw.githubusercontent.com/KlassnayaAfrodita/KlassnayaAfrodita/stats/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ### 📫 How to Reach Me:
 - Telegram: [KlassnayaAfrodita](https://t.me/MyNameIsEKJ)
